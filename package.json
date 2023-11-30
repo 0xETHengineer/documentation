@@ -34,7 +34,7 @@
     "@astro-community/astro-embed-youtube": "^0.2.2",
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/partytown": "^1.2.3",
-    "@astrojs/preact": "^2.2.1",
+    "@astrojs/preact": "^3.0.0",
     "@astrojs/prism": "^2.1.2",
     "@astrojs/react": "^2.2.1",
     "@astrojs/sitemap": "^1.4.0",
